@@ -29,6 +29,7 @@ target 'githubstars' do
 
   pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
 
+
   target 'githubstarsTests' do
     inherit! :search_paths
     # Pods for testing
